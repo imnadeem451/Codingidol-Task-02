@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding:0;
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+    margin: 10px;
+    color:rgb(129, 60, 145);
+    text-shadow: 1px 1px rgb(250, 216, 250);
+}
+p{
+    margin: 10px;
+
+}
+img{
+    margin: 10px;
+    border-radius: 5px;
+    border: 2px solid rgb(129, 60, 145);
+    box-shadow: 2px 2px rgb(236, 194, 243);
+}
+a{
+    margin-top: 10px;
+    margin-left: 200px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(178, 104, 190);;
+    padding: 2px;
+    border-radius: 5px;
+    border: 2px solid rgb(129, 60, 145);
+}
